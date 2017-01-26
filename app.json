@@ -1,0 +1,7 @@
+{
+  "name": "Test Repo",
+  "description": "Test Repository to test out heroku integration",
+  "repository": "https://github.com/couchbits/test-repo",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
+}
